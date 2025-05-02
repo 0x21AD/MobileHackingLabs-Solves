@@ -70,7 +70,7 @@ I used hextree web app to trigger the deeplink
 `https://ht-api-mocks-lcfc4kr5oa-uc.a.run.app/android-link-builder?href=mhl://mobilehackinglab?url=https://4fc6-156-208-78-146.ngrok-free.app/solve.html?abc=mobilehackinglab.com`
 
 
-![alt text](image-4.png)
+![alt text](image-5.png)
 
 
 Thanks For Reading !
